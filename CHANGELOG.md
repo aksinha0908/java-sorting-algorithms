@@ -9,11 +9,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Added
 
 - Static Application Security Testing (SAST).
-- Lombok annotations for generated fields.
+- Lombok annotations for generated fields (improve code coverage).
 - Maven release plugin.
 - LICENSE.
 
-### Changes
+### Changed
 
 - Display a message in Markdown files if a PDF document is not supported.
 - Update EXERCISES.md and README.md.
